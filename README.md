@@ -82,5 +82,5 @@ The investigation strongly suggests James accessed **Coffely’s secret recipe f
 ---
 
 ## Full Project  
-[Link to full project goes here]  
+(https://github.com/LucasCodes8/Registry-Forensics-Uncovering-Insider-Threats-in-the-Secret-Recipe-Case/blob/main/Secret%20Recipe.pdf)  
 
